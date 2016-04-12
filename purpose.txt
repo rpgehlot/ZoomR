@@ -1,0 +1,9 @@
+1) 	Name of the library?
+2) 	what is the purpose/goal of my library?
+3) 	what  other libraries you want to include in your library?
+
+
+
+1) ZoomR
+2) it can associate an image with any html element and when hovered on that element ,it previews that image with zoomed perspective and continues hovering changes the zoomed part of that previewed image as well.
+3) may be jquery , but mostly pure javascript is gonna be used.
